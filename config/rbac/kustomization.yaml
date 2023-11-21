@@ -1,0 +1,4 @@
+resources:
+  - emailrequest_editor_role.yaml
+  - emailrequest_viewer_role.yaml
+  - role.yaml
